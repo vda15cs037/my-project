@@ -1,4 +1,10 @@
 #include<stdio.h>
 void main(){
-printf("hello world");
+printf("hello");
+int a,b;
+printf("enter 1st num");
+scanf("d",&a);
+printf("enter 2nd num");
+scanf("%d",&b);
+printf("sum is:%d" ,a+b);
 }
