@@ -7,4 +7,5 @@ scanf("d",&a);
 printf("enter 2nd num");
 scanf("%d",&b);
 printf("sum is:%d" ,a+b);
+printf("product is:%d",a*b);
 }
