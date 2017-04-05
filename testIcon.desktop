@@ -1,0 +1,10 @@
+
+[Desktop Entry]
+Version=1.0
+Name=Login
+Comment=Back up your data with one click
+Exec=/home/college/.x.sh
+Icon=/home/college/.us.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;
